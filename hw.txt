@@ -1,0 +1,5 @@
+https://projecteuler.net/problem=28
+https://projecteuler.net/problem=30
+
+Why one way loop only works in coin problem and not the other way loop?
+Speed up solution for project euler problem 49
